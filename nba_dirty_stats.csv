@@ -1,0 +1,13 @@
+Player,Team,PPG,FG%,3P%,FT%,Games
+Stephen Curry,GSW,29.4,49.3,42.1,91.6,63
+LeBron James,LAL,27.1,50.0,36.5,75.0,67
+Kevin Durant,PHX,,52.1,40.3,88.2,55
+NaN,MIL,30.1,61.0,29.2,72.9,66
+Jayson Tatum,BOS,26.4,46.6,37.9,,70
+,,N/A,abc,xyz,101,?
+Joel Embiid,PHI,33.1,54.8,33.3,85.7,52
+Luka Doncic,DAL,32.4,48.6,37.1,76.4,65
+Random Guy,ZZZ,NaN,NaN,NaN,NaN,NaN
+Kyrie Irving,DAL,25.6,49.1,41.2,90.5,60
+Unknown,,28.5,50.0,38.0,NaN,59
+Anthony Edwards,MIN,25.9,46.2,36.3,81.5,72
